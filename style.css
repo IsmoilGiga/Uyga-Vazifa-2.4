@@ -1,0 +1,128 @@
+header {
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .right{
+    display: flex;
+    align-items: center;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+header a{
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  text-shadow: 0 7px  4px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto 0 auto;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.card1{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0 8px 24px #2FC63C;
+    width: 164px;
+    height: 164px;
+}
+
+.intro img {
+    width: 500px;
+    height: 650px;
+}
+
+.textright .top{
+    display: flex;
+    gap: 40px;
+}
+
+.textright .bottom{
+    display: flex;
+    gap: 40px;
+    margin-top: 70px;
+}
+
+.textright .orta{
+    display: flex;
+    gap: 40px;
+    margin-top: 70px;
+}
+
+.card2{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0 7px 27px rgba(100, 100, 111, 0.2);
+    width: 164px;
+    height: 164px;
+}
+
+.card3{
+    display: flex;
+    gap: 30px;
+    box-shadow:1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px rgba(0, 0, 0, 0.15);    ;
+    width: 164px;
+    height: 164px;
+}
+
+.card4{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+    width: 164px;
+    height: 164px;
+}
+
+.card5{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+    width: 164px;
+    height: 164px;
+}
+
+.card6{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0px 3px 8px 0px rgba(255, 0, 0, 1);
+    width: 164px;
+    height: 164px;
+}
+
+.card7{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+    width: 164px;
+    height: 164px;
+}
+
+.card8{
+    display: flex;
+    gap: 30px;
+    box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.66);
+    width: 164px;
+    height: 164px;
+}
+
+.card9{
+    display: flex;
+    gap: 30px;
+    box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px rgba(0, 0, 0, 0.15);
+    width: 164px;
+    height: 164px;
+}
